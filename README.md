@@ -25,4 +25,4 @@ Usa Servlet para dar solución a los siguientes problemas:
 
 ## Contribución
 
-Se alienta a los alumnos a hacer forks de este repositorio e implementar las soluciones de los ejercicios propuestos. Una vez que hayan completado los ejercicios, pueden hacer un "pull request" para compartir sus soluciones con la comunidad.
+Hacer forks de este repositorio e implementar las soluciones de los ejercicios propuestos.
