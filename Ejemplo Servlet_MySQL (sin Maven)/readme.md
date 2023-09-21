@@ -1,2 +1,2 @@
 # ¡IMPORTANTE!
-## Hay que agregar WEB-INF/Lib la librería del conector MySQL
+## Hay que agregar WEB-INF/lib la librería del conector MySQL
