@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AccesoBaseDatos {
-	public List<String> nombres = new ArrayList<String>();
+	private List<String> nombres = new ArrayList<String>();
 	
 	public List<String> devolverNombres(){
 		String url = "jdbc:mysql://localhost:3306/mi_bbdd_proyecto";
