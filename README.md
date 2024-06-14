@@ -26,3 +26,7 @@ Usa Servlet para dar solución a los siguientes problemas:
 ## Contribución
 
 Hacer forks de este repositorio e implementar las soluciones de los ejercicios propuestos.
+
+# Ejemplo con Maven
+https://github.com/profeInformatica101/tu-proyecto
+
